@@ -97,3 +97,49 @@ Servir como filtro previo para:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📊 **No toda la volatilidad es mala… depende de qué tan “bien pagada” esté**
+
+En mercados financieros, el riesgo es inevitable.
+La clave está en entender **qué tan eficiente es ese riesgo**.
+
+👉 Analicé el rendimiento de cada acción en los últimos 30 días, ajustándolo por su volatilidad para identificar cuáles ofrecen la mejor **relación riesgo-retorno dentro de su sector**.
+
+💡 **Insight clave:**
+Algunas acciones no solo rinden bien…
+sino que lo hacen con una volatilidad “saludable”, destacándose en términos de **calidad de movimiento** (*Sharpe simplificado*).
+
+---
+
+📈 **¿Qué medí?**
+
+* Rendimiento promedio (30 días)
+* Volatilidad (desviación estándar de retornos)
+* Ratio rendimiento / volatilidad → **Sharpe simplificado**
+* Comparación dentro de cada sector
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Ratio alto → mejor compensación por riesgo asumido
+* Ratio bajo → volatilidad “cara” o poco eficiente
+* Clave: no es solo cuánto sube… sino **cómo se comporta en el camino**
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque permite identificar:
+
+* Activos con movimientos más “limpios”
+* Mejores candidatos para portafolios optimizados
+* Oportunidades donde el riesgo está mejor remunerado
+
+---
+
+📌 Pregunta para la comunidad:
+¿Evalúan activos dentro de su sector por eficiencia riesgo-retorno… o comparan todo el mercado de forma agregada?
+
+#QuantFinance #DataScience #Trading #StockMarket #RiskManagement #SharpeRatio #SQL #Analytics
